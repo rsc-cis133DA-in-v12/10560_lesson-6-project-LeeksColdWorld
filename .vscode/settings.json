@@ -5,5 +5,8 @@
     "CodeGPT.Autocomplete.provider": "CodeGPT Plus - Plus",
     "cSpell.words": [
         "Tiktok"
+    ],
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
     ]
 }
