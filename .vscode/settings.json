@@ -1,0 +1,9 @@
+{
+    "chatgpt.apiKey": "sk-13043f67-0a44-4cf7-b03b-9adbc23a4dc8",
+    "codegpt.apiKey": "sk-13043f67-0a44-4cf7-b03b-9adbc23a4dc8",
+    "CodeGPT.Autocomplete.enabled": true,
+    "CodeGPT.Autocomplete.provider": "CodeGPT Plus - Plus",
+    "cSpell.words": [
+        "Tiktok"
+    ]
+}
